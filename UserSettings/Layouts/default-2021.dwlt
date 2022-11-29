@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 1037
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Console
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -119,7 +119,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 61388
+  controlID: 137
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -144,7 +144,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 61366
+  controlID: 103
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -169,7 +169,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 61367
+  controlID: 104
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -216,8 +216,8 @@ MonoBehaviour:
     y: 0
     width: 276
     height: 585
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -247,7 +247,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 61275
+  controlID: 67
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -319,8 +319,8 @@ MonoBehaviour:
     y: 0
     width: 454
     height: 987
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 19}
   m_Panes:
   - {fileID: 19}
@@ -644,9 +644,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -98.15649, y: -27.175314, z: -22.62798}
+    m_Target: {x: -77.99472, y: 10.119131, z: 6.205301}
     speed: 2
-    m_Value: {x: -98.15649, y: -27.175314, z: -22.62798}
+    m_Value: {x: -77.99472, y: 10.119131, z: 6.205301}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -693,13 +693,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.06854597, y: 0.73920363, z: -0.07572077, w: -0.66584384}
+    m_Target: {x: -0.12969036, y: -0.7438147, z: 0.15221806, w: -0.63796407}
     speed: 2
-    m_Value: {x: -0.06853904, y: 0.7391289, z: -0.07571312, w: -0.66577655}
+    m_Value: {x: -0.12944582, y: -0.7446783, z: 0.1523935, w: -0.6367685}
   m_Size:
-    m_Target: 93.634026
+    m_Target: 0.8660254
     speed: 2
-    m_Value: 93.634026
+    m_Value: 0.8660254
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -754,10 +754,10 @@ MonoBehaviour:
     m_SaveData: []
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 10600000
+      scrollPos: {x: 0, y: 229}
+      m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: de1cfdff8623fdff0047fdffa84efdff4c55fdffc45dfdff5c65fdfffc6efdffa075fdffca7afdff8a7cfdff547dfdffba7dfdff8883fdffc028feffca28feffcc28feff9c2cfeffb42cfeffee2cfeffbc32feffc449feff0294feff0494feffc094feff1895feff2695fefff49afeff5ca3feff74a3feff80a3feff82a3feff2aaafeff50b3feff7cb3feff90b3feffa8b3feffb6b3feff84b9feff02e1feff2ce3feff92e3feff0ce4feffb4eafeffbaf1feff3af9feff1c00fffffa06ffffba0dffff5e14ffff201bffffe221ffffcea2ffff54f8ffff5ef8ffff1ef9ffff3ef9ffff52f9ffff6af9ffff7ef9ffff9ef9ffff1afbffffd25d0000505e00008e5e00007c8f010046bd010050bd010036da0100
+      m_ExpandedIDs: ecfaffff34fbffffec6b0000426c00004c6c0000c26c0000d46c0000006d0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -850,22 +850,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Shaders
+    - Assets/Downloads/RPG Food & Drinks Pack/Assets/Models
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Shaders
+  - Assets/Downloads/RPG Food & Drinks Pack/Assets/Models
   m_LastFoldersGridSize: 16
   m_LastProjectPath: "D:\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\GitHub\\Snake-VS-Block-3D-Clone"
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 10600000
-    m_LastClickedID: 24592
-    m_ExpandedIDs: 00000000066000000e95010000ca9a3b
+    m_SelectedIDs: 588b0000
+    m_LastClickedID: 35672
+    m_ExpandedIDs: 00000000706e0000726e0000746e00007a6e0000826e0000846e00001c8b0000208b0000328b000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -893,7 +893,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000000660000000ca9a3b
+    m_ExpandedIDs: 00000000706e0000726e0000746e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -984,7 +984,7 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 0
+  m_LastVerticalScrollValue: 1212
   m_GlobalObjectId: 
   m_InspectorMode: 0
   m_LockTracker:
